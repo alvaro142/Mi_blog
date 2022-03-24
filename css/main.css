@@ -163,15 +163,19 @@ nav .profile-link a {
 
 .blogs-button {
     border: 1px solid #47cfac;
+    border-radius: 18.5px;
+    box-shadow: 6px 8px #888888;
     padding: 10px 15px;
     font-size: 12px;
-}
+ }
 
 .blogs-posts-container .post-container{
     display: inline-block;
-    padding-left: 10px;
+    padding: 10px 10px 20px;
     max-width: 30%;
-    margin-bottom: 50px;    
+    margin-bottom: 50px;
+    border: 2px solid #47cfac;
+    border-radius: 20px;    
 }
 
 .blogs-posts-container .post-container p{
